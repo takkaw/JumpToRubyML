@@ -1,4 +1,4 @@
-package net.takkaw.jump_ruby_ml;
+package net.takkaw.jump_to_ruby_ml;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -8,7 +8,7 @@ import android.content.Intent;
 import android.net.Uri;
 import android.widget.Toast;
 
-public class JumpRubyMLActivity extends Activity {
+public class JumpToRubyMLActivity extends Activity {
 	final String  url_base = "http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-";
 	final String[] ml = {"list","dev","ext","math","talk","core"};
 		

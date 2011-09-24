@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-      package="net.takkaw.jump_ruby_ml"
+      package="net.takkaw.jump_to_ruby_ml"
       android:versionCode="1"
       android:versionName="1.0">
     <uses-sdk android:minSdkVersion="4" />
     <uses-permission android:name="android.permission.INTERNET"></uses-permission>
     <application android:icon="@drawable/icon" android:label="@string/app_name">
-        <activity android:name=".JumpRubyMLActivity"
+        <activity android:name=".JumpToRubyMLActivity"
                   android:label="@string/app_name"
                   android:theme="@android:style/Theme.Translucent">
             <intent-filter>
