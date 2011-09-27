@@ -1,0 +1,21 @@
+= Jump to RubyML
+It's a twicca plug-in.
+This plugin detects RubyML keyword in a tweet and open mailing list with browser.
+
+
+== Usage
+Launch the twicca.
+Tap a tweet including RubyML keyword example "ruby-list:(number)".
+Tap a "Open RubyML with brower".
+
+
+== Usage(ja)
+twiccaを起動します。
+"ruby-list:(number)"のようなキーワードを含むツイートをタップします。
+"RubyMLをブラウザで開く"をタップします。
+
+
+== Copyright
+Copyright (c) 2011 takkaw. See LICENSE.txt for
+further details.
+
